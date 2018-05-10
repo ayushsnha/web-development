@@ -1,0 +1,39 @@
+
+div {
+	
+	margin: 0% 20%;
+	border: 20px solid #bdc3c7;
+}
+
+p{
+	padding: 0px 25px;
+	font-family: 'Arima Madurai', cursive;
+}
+.line{
+	border-left: 5px solid #bdc3c7;
+	padding-left: 10px;
+}
+
+.c1
+{
+	margin: 0% 5%;
+	border: 0px solid #bdc3c7;
+}
+h1
+{
+	padding: 0px 25px;
+	font-family: 'Delius', cursive;
+}
+
+hr{
+	margin: 10px;
+}
+.c2{
+	margin: 0% 1.7%;
+	padding-bottom: 25px;
+}
+h3{ padding: 0px 25px;
+	color: #5995f7;
+	font-family: 'Over the Rainbow', cursive;
+
+}
