@@ -1,0 +1,13 @@
+#content{
+	padding-top: 25%;
+	text-align: center;
+	color: #f99820;
+	font-family: 'Skranji', cursive;
+}
+
+body{
+	background: url(https://images.unsplash.com/photo-1482066490729-6f26115b60dc?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=2e749e5a9492af91a0c4e366e0f58bb4&auto=format&fit=crop&w=500&q=60);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: 100% 128%;
+}
