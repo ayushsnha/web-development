@@ -1,0 +1,37 @@
+i.icon{
+	font-size: 1.8em;
+}
+body{
+	background-image: url("https://developer.github.com/assets/images/hero-circuit-bg.svg");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-attachment: fixed;
+	background-size: cover;
+	width: 100%;
+	font-family: 'Nunito', sans-serif;
+}
+
+.navbar{
+	font-family: 'BioRhyme Expanded', serif;
+	opacity:0.7;
+	padding: 0px;
+}
+.jumbotron{
+	opacity: 0.8;
+	margin-top: 70px;
+	padding: 20px;
+
+}
+img{
+	width: 80%;
+}
+.btn{
+	width: 80%;
+}
+label{
+	font-size: 20px;
+}
+.label{
+	padding: 5px;
+	font-size: 12px;
+}
